@@ -1,0 +1,259 @@
+@media only screen and (max-width: 991px) {
+    .manu-area {
+        width: 59%;
+        float: right;
+        position: relative;
+    }
+    .logo-area {
+        width: 28%;
+    }
+    .man-manu {
+        position: absolute;
+        top: 24px;
+    }
+    .first {
+        width: 28%;
+    }
+    .secton-2-top-text {
+        padding-top: 83px;
+        padding-bottom: 33px;
+    }
+    .left-area {
+        width: 41%;
+        padding-left: 40px;
+    }
+    .section-2-buttom-image.h2 {
+        padding-left:0px;
+    }
+    img.line {
+        position: absolute;
+        top: 1631px;
+        left: 246px;
+    }
+    section#section2 {
+        padding-top: 260px;
+        height: 1131px;
+    }
+    .section3-top-des {
+        padding-top: 27px;
+        padding-right: 109px;
+    }
+
+}
+@media only screen and (max-width: 768px) {
+    section#section1 {
+        position: absolute;
+        top: 56%;
+
+    }
+    .logo-area {
+        width: 10%;
+        padding-left:0px;
+    }
+    .manu-area {
+        width: 75%;
+    }
+    p.header-des {
+        width: 706px;
+    }
+    h2.header-titel {
+        padding-top: 20%;
+    }
+    .header-button {
+        margin-top: 91px;
+    }
+    .first:first-child {
+        margin-left: -1px;
+    }
+    .first {
+        width: 32%;
+        margin-right: 14px;
+    }
+    h2.first-image-titel {
+        font-size: 18px;
+    }
+    .left-area {
+        width: 90%;
+        float: left;
+        overflow:visible;
+    }
+    .left-area {
+        padding-left: 102px;
+    }
+    .right-area {
+        width: 100%
+    }
+    section#section2 {
+        padding-top: 260px;
+        height: 1425px;
+    }
+    .industry1 {
+        margin-top: 123px;
+        margin-left: 0px;
+    }
+    img.industry1 {
+        margin-left: -9px;
+    }
+    img.line {
+        position: absolute;
+        top: 1908px;
+        left: 100px;display: none;
+
+    }
+    .section-2-buttom-image.h2 {
+        padding-left: 6px;
+        width: 72px;
+    }
+    .section-2-buttom-image-text {
+        display: none;  
+    }
+    .section3-top-des {
+        width: 100%;
+        font-size: 20px;
+        padding-top: 50px;
+    }
+    .section3-button-image.first-child {
+        margin-left: 20px;
+        margin-right: 76px;
+    }
+    p.Copyright-left {
+        padding-top: 131px;
+    }
+    p.Copyright-right {
+        padding-top: 132px;
+    }
+    .section-2-buttom-image {
+        width: 25%;
+    }
+
+
+
+}
+@media only screen and (max-width: 600px) {
+    .logo-area {
+        width: 50%;
+        padding-left: 13px;
+    }
+    .manu-area {
+        display: none;
+    }
+    p.header-des {
+        width: 428px;
+        font-size: 17px;
+    }
+    .first {
+        width: 47%;
+    }
+    .first.last-chlid {
+        width: 79%;
+        margin-left: 47px;
+        margin-top: 30px;
+    }
+    section#section1 {
+        position: absolute;
+        top: 87%;
+    }
+    .secton-2-top-text-titel {
+        padding-top: 158px;
+        width: 100%;
+    }
+    p.secton-2-top-text-des {
+        width: 100%;
+        font-size: 16px;
+    }
+    .left-area {
+        padding-left: 30px;
+    }
+    .section-2-buttom-image {
+        width: 50%;
+    }
+    .industry1 {
+        width: 159px;
+    }
+    .section3-top-des {
+        width: 100%;
+        display: inline-block;
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    .industry1.last-image {
+        display: none;
+    }
+    .section3-button-image {
+        width: 100%;
+        margin-left: 4px;
+    }
+    #secton3 {
+        width: 100%;
+        height: 2031px;
+    }
+    .Copyright-left {
+        width: 100%;
+        display: inline-block;
+    }
+    #footer {
+        height: 658px;
+    }
+    .Copyright-right {
+        width:90%;
+        float:none;
+    }
+    p.Copyright-left {
+        padding-top: 131px;
+        padding-bottom: 20px;
+    }
+    .section3-button-image.first-child {
+        margin-left: 2px;
+    }
+
+}
+@media only screen and (max-width: 400px) {
+    h2.header-titel {
+        padding-top: 31%;
+    }
+    h2.header-titel {
+        font-size: 37px;
+    }
+    p.header-des {
+        width: 288px;
+        font-size: 17px;
+        line-height: 2;
+    }
+    .first {
+        width: 102%;
+        margin-bottom: 33px;
+    }
+    .first.last-chlid {
+        width: 101%;
+        margin-left: 4px;
+        margin-top: -9px;
+    }
+    .secton-2-top-text {
+        padding-top: 374px;
+        padding-bottom: 47px;
+    }
+    h2.secton-2-top-text-titel {
+        font-size: 29px;
+    }
+    .left-area {
+        padding-left: 0px;
+        margin-left: -21px;
+    }
+    h3.left-area-position {
+        padding-left: 68px;
+    }
+    #secton3 {
+        width: 100%;
+        height: 2389px;
+    }
+    .section3-top-des {
+        margin-left: 65px;
+    }
+    p.Copyright-left {
+        margin-left: 42px;
+    }
+    p.Copyright-right {
+        margin-left: 69px;
+    }
+    
+}
